@@ -66,6 +66,18 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			['Vs Crab Team Team'],
+			['JayFoox',		'jay',		'Director Of The Mod',						'https://gamebanana.com/members/1823175',	'ffee00'],
+			['dave',			'dave',		'Main Coder of Vs Crab',					'https://www.youtube.com/channel/UCx8HSyX4DdDG7tAeN91PPdQ',		'C30085'],
+			['Ufer',			'ufer',			'Composer/Charter of Vs Crab',				'https://twitter.com/Ufer44',			'389A58'],
+			['Boggi',			'joe',			'2nd Composer of Vs Crab',				'https://www.youtube.com/channel/UCmfTbmPjKIvJj6FplsbAI8Q',			'd900ff'],
+			['Jammy',			'jammy',			'Additional Composer of Vs Crab',				'https://www.youtube.com/channel/UCdGTdqOVO1kEr3_1g9C1KDw',			'0f9934'],
+			['meth',			'discord',			'ModCharter of Vs Crab',				'https://twitter.com/Sndn30167828',			'ffffff'],
+			['tiburones',			'tiburones',			'Charter of Vs Crab',				'https://gamebanana.com/members/1955454',			'fa0217'],
+			['izzy',			'izzy',			'Artist of Vs Crab',				'https://gamejolt.com/@izzyian',			'00ffee'],
+			['BigV',			'big',			'Artist of Vs Crab',				'https://www.youtube.com/channel/UCM63UiyQOamjZV_2tuV90BQ',			'734a1c'],
+			['Aiden',			'aiden',			'Additional Artist of Vs Crab',				'https://www.youtube.com/channel/UC2E2o-4FHVEqGcp-PaII5tQ',			'734a1c'],
+			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',						'https://twitter.com/Shadow_Mario_',	'FFDD33'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',					'https://twitter.com/river_oaken',		'C30085'],

@@ -3,76 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				-370
+				2,
+				-368
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "idle",
+			"name": "Idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				210,
-				-380
+				67,
+				-385
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "left",
+			"name": "Left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				-320
+				-11,
+				-419
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "down",
+			"name": "Down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				-260
+				-39,
+				-340
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "up",
+			"name": "Up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				40,
-				-390
+				-48,
+				-372
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "right",
+			"name": "Right",
 			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/crab",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "face",
+	"healthicon": "crab",
 	"flip_x": false,
 	"healthbar_colors": [
-		161,
-		161,
-		161
+		167,
+		154,
+		145
 	],
 	"camera_position": [
-		-40,
-		410
+		-100,
+		360
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 1.4
 }
