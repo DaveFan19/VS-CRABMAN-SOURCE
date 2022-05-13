@@ -184,7 +184,7 @@ class TitleState extends MusicBeatState
 			}
 		}
 
-		Conductor.changeBPM(102);
+		Conductor.changeBPM(225);
 		persistentUpdate = true;
 
         backgroundTitle = new FlxSprite().loadGraphic(Paths.image('bg'));

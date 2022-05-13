@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "crab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That Was Fun."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah I Guess!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That Was Funky!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How about Another Round MR.Pubic Crab?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "crab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sounds Good to Me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "crab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How About We Speed Up Things Them??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Yeah Sure!"
+		}
+	]
+}

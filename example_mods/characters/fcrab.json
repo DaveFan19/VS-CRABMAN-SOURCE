@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				100,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-54,
+				-52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				-73
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				121
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-70
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "NFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-213,
+				-74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				150,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Explode",
+			"indices": [],
+			"name": "blow"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/FireMan",
+	"position": [
+		-250,
+		240
+	],
+	"healthicon": "crab",
+	"flip_x": false,
+	"healthbar_colors": [
+		167,
+		154,
+		145
+	],
+	"camera_position": [
+		-160,
+		-50
+	],
+	"sing_duration": 7.1,
+	"scale": 1.6
+}

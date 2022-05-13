@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Wha-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Boyfriend Where are We, Where Did Mommy Teleport us this time?!/?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "crab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Waaaaah!! A Crab!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "crab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Excuse Me, Im Not a Crab, im Specifically A pubic crab."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Isn't it like, the same thing?"
+		},
+		{
+			"speed": 0.1,
+			"portrait": "crab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "n o i t s n o t"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Well Ok Then,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Would You Like to Have a Rap Battle Mr.pubic crab?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "crab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Thought you would never ask, BRING IT ON!"
+		}
+	]
+}
