@@ -188,7 +188,7 @@ class TitleState extends MusicBeatState
 		persistentUpdate = true;
 
         backgroundTitle = new FlxSprite().loadGraphic(Paths.image('bg'));
-        backgroundTitle.screenCenter();
+        backgroundTitle.x = 300;
         backgroundTitle.antialiasing = ClientPrefs.globalAntialiasing;
 		add(backgroundTitle);
 

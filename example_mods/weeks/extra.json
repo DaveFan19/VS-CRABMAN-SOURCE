@@ -1,0 +1,39 @@
+{
+	"storyName": "Crab!!!!!!!! EXTRA",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"prime",
+			"crab",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"banger",
+			"an",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Crab!!!!!!!!"
+}

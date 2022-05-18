@@ -24,7 +24,7 @@ function onEvent(name, value1, value2)
 	scaleLuaSprite('spacebar', 0.50, 0.50); 
     addLuaSprite('spacebar', true); 
 
-    makeAnimatedLuaSprite('laser', 'laserblast', dadX-130, dadY+120);
+    makeAnimatedLuaSprite('laser', 'laserblast', dadX-130, dadY-320);
     luaSpriteAddAnimationByPrefix('laser', 'laser', 'laser', 25, true);
     addLuaSprite('laser', true); 
     luaSpritePlayAnimation('laser', 'laser');
